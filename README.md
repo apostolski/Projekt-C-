@@ -14,11 +14,20 @@ Rozwijanie postaci poprzez zdobywane umiejętności, zamiast paskow zycia jest l
 
 Plan Developerski:
 >Działające menu
+
 >Kilka przykładowych ataków
+
 >Menu nie ingerujace z ruchem
+
 >Podpięcie pod menu funkcji aby coś robiło
+
 >Po wykonaniu akcji zmiana gracza grywalnego
+
 >Podstawowi przeciwnicy be żadnych reakcji
+
 >System obliczania obrażeń biorący pod uwagę typ przeciwnika, oraz statystyki obu stron
+
 >Podstawowe AI polegajace na prostym wyborze drzewkowym
+
 >Modele oraz animacje
+
