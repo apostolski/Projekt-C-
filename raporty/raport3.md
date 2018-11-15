@@ -1,0 +1,1 @@
+﻿Optymalizacja działania poprzez stworzenie jednego actora którego celem jest przechowywanie wszystkich zmiennych potrzebnych do działania programu (casting)
