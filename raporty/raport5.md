@@ -1,0 +1,2 @@
+﻿Wprowadziłem prymitywne AI poelgające na podążaniu do pozycji gracza oraz poprawiony system namierzania
+Dodałem szybki dash który wyłącza hitbox gracza na jakiś czas, jest uzależniony od rotacji, co zmienię w następnej iteracji programu.
