@@ -1,0 +1,5 @@
+Podłoga to lawa
+Walka z bossem wzbogacona o zakaz dotykania czegokolwiek poza platformami, co skłania gracza do wykorzystywania narzędzi do poruszania się.
+Boss rzuca teraz kulami lawy, ma to na celu zmusić gracza do ciągłego ruchu oraz przyspieszyć rozgrywkę.
+Na githubie znajdują się teraz blueprinty razem z potrzebnymi assetami, można je wrzucić do unreala i wszystko powinno działać, jedynie trzeba dodać w ustawieniach projektu inputy jako odpowiednie klawisze.
+Nowy Splash art na start gry, pozwala pozbyć się debugowego wyglądu.
