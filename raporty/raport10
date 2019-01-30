@@ -1,0 +1,24 @@
+Finalna mapa
+Zbudowałem końcową mapę która będzie prezentowana na oddaniu projektu
+Krótka strefa tutorialowa pokazująca mechanike podwójnego skoku oraz biegania po ścianach.
+Na mapie znajdują się różne rzeczy pomagające w ruchu, trampoliny, liny, ściany do biegania oraz platformy.
+
+
+Nowa mechanika teleportu, wzmacnia następny strzał, co jest zaznaczone przez poświatę na modelu gracza.
+Po zabiciu przeciwnika reset czasu teleportu.
+Mechanika dashu w powietrzu, poprawia kontrole oraz rozrywkę z elementów platformowych.
+
+
+Nowe UI, jest nareszcie czytelne i przyjemniejsze dla oka niż poprzednia iteracja.
+
+
+Zakończenie gry.
+Dodałem bossa którego trzeba pokonać korzystając z narzędzi platformowych na mapie, po pokonaniu odgrywa się krótka cutscenka pokazująca jego zabicie.
+
+
+Zdjęcie mapy oraz UI:
+https://imgur.com/a/6jHYyDk
+
+
+Nowe dźwięki
+Wiele elementów rozgrywki ma własne pliki dźwiękowe
