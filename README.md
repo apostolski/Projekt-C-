@@ -1,6 +1,7 @@
 # Projekt C++
 Repozytorium projektu gdy na zajęcia
 
+https://www.youtube.com/watch?v=nxHurnyYpOQ
 
 3d turowa, z ruchem pomiędzy turami
 
